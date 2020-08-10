@@ -20,9 +20,9 @@ v2ctl提供给fancyss_arm、fancyss_arm384和fancyss_hnd，，编译参数为GOA
 
 食用方法
 -----
-使用ssh工具登陆路由，使用Notepad++修改/jffs/.koolshare/scripts/ss_update.sh
-
-修改此脚本的第8行地址main_url=为https://raw.githubusercontent.com/aippnne/meilin_v2ray_core/master/v2ray_binary/
+1.使用ssh工具登陆路由，使用Notepad++修改/jffs/.koolshare/scripts/ss_update.sh
+------------
+2.修改此脚本的第8行地址main_url=为https://raw.githubusercontent.com/aippnne/meilin_v2ray_core/master/v2ray_binary/
 -------------------------------------------------------------------------------------------------------------------------------------
-修改注释掉此脚本的第61-67行的内容，保存并推出然后返回插件点击更新v2ray程序即可
-
+3.修改注释掉此脚本的第61-67行的内容，保存并推出然后返回插件点击更新v2ray程序即可
+---------------
